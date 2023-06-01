@@ -1,0 +1,15 @@
+D:\HW9\CODE64\bin\Debug\net6.0\CODE64.exe
+D:\HW9\CODE64\bin\Debug\net6.0\CODE64.deps.json
+D:\HW9\CODE64\bin\Debug\net6.0\CODE64.runtimeconfig.json
+D:\HW9\CODE64\bin\Debug\net6.0\CODE64.dll
+D:\HW9\CODE64\bin\Debug\net6.0\CODE64.pdb
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.csproj.AssemblyReference.cache
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.AssemblyInfoInputs.cache
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.AssemblyInfo.cs
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.csproj.CoreCompileInputs.cache
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.dll
+D:\HW9\CODE64\obj\Debug\net6.0\refint\CODE64.dll
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.pdb
+D:\HW9\CODE64\obj\Debug\net6.0\CODE64.genruntimeconfig.cache
+D:\HW9\CODE64\obj\Debug\net6.0\ref\CODE64.dll
