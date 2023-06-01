@@ -1,0 +1,15 @@
+D:\HW9\CODE66\bin\Debug\net6.0\CODE66.exe
+D:\HW9\CODE66\bin\Debug\net6.0\CODE66.deps.json
+D:\HW9\CODE66\bin\Debug\net6.0\CODE66.runtimeconfig.json
+D:\HW9\CODE66\bin\Debug\net6.0\CODE66.dll
+D:\HW9\CODE66\bin\Debug\net6.0\CODE66.pdb
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.csproj.AssemblyReference.cache
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.AssemblyInfoInputs.cache
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.AssemblyInfo.cs
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.csproj.CoreCompileInputs.cache
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.dll
+D:\HW9\CODE66\obj\Debug\net6.0\refint\CODE66.dll
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.pdb
+D:\HW9\CODE66\obj\Debug\net6.0\CODE66.genruntimeconfig.cache
+D:\HW9\CODE66\obj\Debug\net6.0\ref\CODE66.dll
